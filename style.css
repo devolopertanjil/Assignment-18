@@ -535,7 +535,7 @@ body {
     border-radius: 9px;
     color: #fff;
     background: #aa972c;
-    border: 1px solid #aa972c;
+    border: 3px solid #aa972c;
     font-size: 16px;
     transition: .4s;
 } 
